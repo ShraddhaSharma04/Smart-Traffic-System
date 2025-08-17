@@ -1,0 +1,7 @@
+[
+  { "name": "Warehouse", "lat": 28.6139, "lng": 77.2090 },
+  { "name": "City Center", "lat": 28.6304, "lng": 77.2177 },
+  { "name": "Shopping District", "lat": 28.6262, "lng": 77.2200 },
+  { "name": "Industrial Zone", "lat": 28.6200, "lng": 77.2000 },
+  { "name": "Residential Area", "lat": 28.6400, "lng": 77.2300 }
+] 

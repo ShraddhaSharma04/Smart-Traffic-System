@@ -1,0 +1,4 @@
+1. conda activate smart_traffic_env
+2. cd "C:\Users\dell\OneDrive\Documents\DAA_Smart_Traffic_System_Project\SmartTrafficSystem"
+3. python visualise_graph.py
+4. python visualise_djikstra.py
